@@ -13,6 +13,7 @@ Ripsyn, AlleyKat,Haste, Dawn, Tukz, Elv, Alza, Shestak and others (wowinterface.
 Officiel Thread (Wowinterface):
 
 http://www.wowinterface.com/downloads/fileinfo.php?id=16927#info
+http://www.wowinterface.com/downloads/fileinfo.php?id=16927#comments
 
 
 
