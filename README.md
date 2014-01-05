@@ -19,3 +19,9 @@ http://www.wowinterface.com/downloads/fileinfo.php?id=16927#info
 Changelog:
 
 9.0.1 - Version's changes for 5.4.2 Client.
+
+
+Informations:
+
+I start the debugging and fixs of DerpyUI tomorrow ( 06 January 2014 ).
+
