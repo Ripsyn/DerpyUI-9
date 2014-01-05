@@ -1,7 +1,9 @@
 DerpyUI-9
 =========
 
-Fan Update of DerpyUI 8 by Ripsyn@Ysondre-EU
+Fan Update of DerpyUI 8 by Ripsyn@EU-Ysondre
+
+http://eu.battle.net/wow/en/character/Ysondre/Ripsyn/advanced
 
 The version 8 is very old, so the fan update can have the "9" update's number.
 
