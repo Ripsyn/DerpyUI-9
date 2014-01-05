@@ -1,0 +1,6 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="elements\vars.lua"/>
+	<Script file="elements\filter.lua"/>
+	<Script file="elements\settings.lua"/>
+	<Script file="elements\nameplates.lua"/>
+</Ui>

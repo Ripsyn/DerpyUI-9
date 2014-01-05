@@ -1,0 +1,8 @@
+## Interface: 50001
+## Author: AlleyKat, Tukz, Tulla
+## Version: Step 8
+## Notes: Action bars.
+## RequiredDeps: DerpyMedia
+## Title: |cffcccc22D|r|cff999999erpy|rActionBars
+
+DerpyActionBars.xml

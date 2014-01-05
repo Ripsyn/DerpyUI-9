@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: |cffcccc22D|r|cff999999erpy|rStuffing
+## Version: Step 8
+## Author: Hungtar, AlleyKat
+## Notes: An edited version of stuffing.
+## RequiredDeps: DerpyMedia
+
+stuff.lua

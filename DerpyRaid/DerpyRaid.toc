@@ -1,0 +1,9 @@
+## Interface: 50001
+## Author: AlleyKat
+## Version: Step 8
+## Title:  |cffcccc22D|r|cff999999erpy|rRaid
+## RequiredDeps: DerpyMedia, oUF
+## OptionalDeps: DerpyUnitFrames
+## SavedVariablesPerCharacter: DerpyRaidVars
+
+main.lua

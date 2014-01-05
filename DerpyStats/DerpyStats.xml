@@ -1,0 +1,10 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="core.lua"/>
+	<Script file="elements\clock.lua"/>
+	<Script file="elements\bags.lua"/>
+	<Script file="elements\dur.lua"/>
+	<Script file="elements\ping.lua"/>
+	<Script file="elements\dps.lua"/>
+	<Script file="elements\hps.lua"/>
+	<Script file="elements\playerstats.lua"/>
+</Ui>

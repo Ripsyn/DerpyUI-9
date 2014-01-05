@@ -1,0 +1,7 @@
+## Interface: 50001
+## Author: AlleyKat
+## Version: Step 7
+## Title: |cffcccc22D|r|cff999999erpy|rNavigation
+## RequiredDeps: DerpyMedia
+
+DerpyNavigation.xml
