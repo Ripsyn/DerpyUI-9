@@ -7,7 +7,7 @@ The version 8 is very old, so the fan update can have the "9" update's number.
 
 Credits:
 
-Ripsyn, ,Haste, Dawn, Tukz, Elv, Alza, Shestak and others (wowinterface.com and tukui.org community)
+Ripsyn, AlleyKat,Haste, Dawn, Tukz, Elv, Alza, Shestak and others (wowinterface.com and tukui.org community)
 
 Officiel Thread (Wowinterface):
 
