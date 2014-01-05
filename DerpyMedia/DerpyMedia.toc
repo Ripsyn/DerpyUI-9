@@ -1,6 +1,6 @@
-## Interface: 50001
-## Author: AlleyKat
-## Version: Step 8
+## Interface: 50400
+## Author: Ripsyn, AlleyKat
+## Version: Step 9
 ## SavedVariablesPerCharacter: DerpyPosVars, DerpyAB, DerpyNav, DerpyXCT, DerpyChat, DerpyMediaVars, DerpyStatsVar_TEMP, DerpyNameplates, DerpyUF, DerpyTweaksVar
 ## Title: |cffcccc22D|r|cff999999erpy|rMedia
 ## OptionalDeps: CallbackHandler-1.0, LibSharedMedia-3.0, LibStub, oUF

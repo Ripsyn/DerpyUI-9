@@ -1,6 +1,6 @@
-## Interface: 50001
+## Interface: 50400
 ## Title: |cffcccc22D|r|cff999999erpy|rStuffing
-## Version: Step 8
+## Version: Step 9
 ## Author: Hungtar, AlleyKat
 ## Notes: An edited version of stuffing.
 ## RequiredDeps: DerpyMedia

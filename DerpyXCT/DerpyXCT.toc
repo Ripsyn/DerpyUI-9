@@ -2,7 +2,7 @@
 ## Title: |cffcccc22D|r|cff999999erpy|rXCT
 ## Notes: X Combat Text
 ## Author: Affli @ RU-Howling Fjord
-## Version: Step 8
+## Version: Step 9
 ## RequiredDeps: Blizzard_CombatText, DerpyMedia
 
 config.lua

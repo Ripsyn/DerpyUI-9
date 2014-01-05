@@ -1,6 +1,6 @@
-## Interface: 50001
-## Author: AlleyKat, Tukz, Tulla
-## Version: Step 8
+## Interface: 50400
+## Author: Ripsyn, AlleyKat, Tukz, Tulla
+## Version: Step 9
 ## Notes: Action bars.
 ## RequiredDeps: DerpyMedia
 ## Title: |cffcccc22D|r|cff999999erpy|rActionBars
