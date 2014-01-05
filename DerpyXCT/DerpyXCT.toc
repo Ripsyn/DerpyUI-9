@@ -1,4 +1,4 @@
-## Interface: 40300
+## Interface: 50400
 ## Title: |cffcccc22D|r|cff999999erpy|rXCT
 ## Notes: X Combat Text
 ## Author: Affli @ RU-Howling Fjord
