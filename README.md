@@ -12,3 +12,10 @@ Ripsyn, AlleyKat,Haste, Dawn, Tukz, Elv, Alza, Shestak and others (wowinterface.
 Officiel Thread (Wowinterface):
 
 http://www.wowinterface.com/downloads/fileinfo.php?id=16927#info
+
+
+
+
+Changelog:
+
+9.0.1 - Version's changes for 5.4.2 Client.
